@@ -19,7 +19,11 @@ int main ()
     u.b = 6;
     cout << u.a << endl;
 
-    // set_intersection
+    // character data type
+
+    char c = 'A';
+    short a = c;
+    cout << a << endl;
 
     return 0;
 }

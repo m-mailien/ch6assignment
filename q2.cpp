@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-    map<string, int> myMap;
-    myMap["apple"] = 1;
+    map<string, int> myMap; // creating map
+    myMap["apple"] = 1; // assigns
     myMap["cherry"] = 3;
     myMap["banana"] = 2;
 
